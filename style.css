@@ -1,0 +1,761 @@
+body{ 
+margin: 0px;
+background-color: whitesmoke;
+font-family: "Nunito", sans-serif;
+font-family: "Poppins", sans-serif;
+font-family: "Roboto", sans-serif;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.loyoat {
+    width: 100%;
+    display: flex ;  
+}
+aside{
+    background-color: white;
+    height: 100vh;
+    width: 16rem;
+    text-align: center;
+}
+.header_profile{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.header_teacher {
+    display: flex;
+    /* justify-content: center; */
+    align-items:center;
+    margin-left: 58rem;
+    margin-top: 2rem;
+    gap: 20px;
+}
+hr{
+        width: 95%;
+        margin-left: 3rem;
+        margin-top: 1rem;
+}
+select{
+    display: flex;
+    padding: 0 10px 0 0 ;
+    border: none;
+    background-color: whitesmoke;
+}
+main .content{
+    /* background-color: rgba(112, 107, 107, 0.301); */
+    border-radius: 0px;
+    height: 500px;
+}
+.Peaksoft{
+    margin-top: 3.3rem;
+    margin-bottom: 0;
+    color: rgb(3, 167, 248);
+}
+.cards>h1{
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.cards{
+    margin-left: 20px;
+}
+.card {
+    width: 260px;
+    background-color: white;
+    display: inline-block;
+    border: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    padding:20px;
+}
+.card img{
+    border-radius: 10px;
+width: 220px;
+height: 150px;
+margin-bottom: 10px;
+/* margin-right: 10px; */
+}
+
+.title {
+    display: flex;
+    justify-content: space-between ;
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+}
+.card h6 {
+    height: 50px;
+}
+.a:hover{
+    background-color: rgb(45, 45, 181);
+     color: white;
+}
+.a{
+    border-radius: 7px;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar>ul{
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    margin-top: 4rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+  header {
+    display: inline-block;
+    position: relative;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+  }
+  .header > .header_icons > img {
+    width: 25px;
+    margin-right: 5px;
+  }
+  .header > .header_icons {
+    margin-left: 1060px;
+    margin-top: 20px;
+  }
+  .header {
+    margin: 0px;
+  }
+  .header_students{ 
+    border: 0px solid;
+    font-size: 16px;
+  }
+  .line1{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 20%;
+  }
+  .text{
+      padding-left: 15px;
+  }
+  .text>a{
+      text-decoration: none;
+      color: black;
+  }
+  .border3{
+      box-shadow: 1px 1px 1px 1px grey;
+      background-color: white;
+      height: 270px;
+      width: 230px;
+      border-radius: 3px;
+      margin-left: 250px;
+      /* position: relative;
+      bottom: 270px; */
+  }
+  .line{
+      width: 95%;
+      margin-left: 50px;
+  }
+  .text_main2{
+      margin-left: 80%;
+      width: 200px;
+      padding: 5px 5px;
+      background-color: rgb(0, 191, 255);
+      display: inline-block;
+      border-radius: 5px;
+  }
+  .text_main1{
+      margin-left: 30px;
+      display: inline-block;
+  }
+  a{
+      text-decoration: none;
+      color: black;
+  }
+  .body{
+    background-color: whitesmoke;
+  }
+  .image>img{
+      width: 400px;
+      margin-left: 36%;
+  }
+  .image>p{
+      text-align: center;
+  }
+  .text_main3
+  {
+      margin-left: 42%;
+      width: 200px;
+      padding: 5px 5px;
+      background-color: rgb(0, 191, 255);
+      display: inline-block;
+      border-radius: 5px;}
+  .beak{
+      margin-left: 50px;
+  }
+  .header555{
+      background-color: #eff0f4;
+    
+  }
+  .trash-section{
+      background-color: white;
+      width: 98%;
+      height: 510px;
+      margin-left: 1%;
+  }
+  .beka2222{
+      width: 480px;
+      padding: 10px 5px;
+      background-color: orange;
+      color: white;
+      border-radius: 5px;
+      border: 0px solid white;
+      margin-left: 30%;
+      margin-top: 10px;
+  }
+  .trash-section>h3{
+      margin-left: 40%;
+      margin-top: 10px;
+  }
+  .BEKA{
+      width: 20px;
+  }
+  .BEKA1{
+      width: 20px;
+      bottom: 40px;
+  }
+  .BEKA2{
+      width: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
